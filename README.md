@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ravi Kumar Gajul
 
-<!--
-**ravigajul/ravigajul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation architect and Senior QA Lead. I build test automation for hard-to-test systems: voice bots, API contracts, and large web apps.
 
-Here are some ideas to get you started:
+## Selected work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[IVRTesting](https://github.com/ravigajul/IVRTesting)**: Black-box testing for IVR systems and voice bots. Places calls, speaks as a synthesized customer, transcribes both sides, and evaluates the result. Python, pytest, Whisper, Ollama, DeepEval.
+
+**[AutoHealPoc](https://github.com/ravigajul/AutoHealPoc)**: Detects OpenAPI contract changes, maps them to affected Playwright tests, patches those tests with a local LLM, re-runs the suite, and writes an HTML report. TypeScript, Playwright, Ollama.
+
+## Focus areas
+
+AI-assisted test automation, voice AI testing, API and performance testing, mobile testing with Appium, CI with Azure DevOps.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/ravigajul/)
